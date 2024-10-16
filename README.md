@@ -17,7 +17,9 @@ Weather and Traffic Conditions: Weather descriptions and road traffic density
 ### Data Preprocessing:
 
 Handling missing values (imputation with median/mode).
+
 Feature engineering (e.g., calculating delivery distance using geodesic formulas).
+
 Encoding categorical variables and scaling numerical features
 
 .
